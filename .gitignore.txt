@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+.env
+*.pem
+models/*.pkl  # O incluye los modelos si son necesarios
